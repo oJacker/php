@@ -9,4 +9,6 @@ $user = new User($pdo);
 
 
 print_r($user->register('admin', 'admin'));
+
+
 ?>
